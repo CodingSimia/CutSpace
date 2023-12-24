@@ -1,0 +1,28 @@
+.thank {
+    margin-top: 170px;
+}
+
+
+.thank__text {
+    display: flex;
+    gap: 260px;
+
+    p {
+        color: #606060;
+
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 1.15px;
+
+        padding-top: 10px;
+        width: 400px;
+    }
+
+    h2 {
+        width: 450px;
+    }
+}
+

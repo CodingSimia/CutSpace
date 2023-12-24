@@ -1,0 +1,25 @@
+.advantages__main__title {
+    margin-top: 113px;
+    text-align: center;
+}
+
+.advantages__items {
+    gap: 35px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.advantages__title {
+    font-size: 28px;
+    color: #323232;
+}
+.advantages__item {
+    text-align: center;
+    align-items: center;
+    
+    img {
+        display: inline-block;
+    }
+}

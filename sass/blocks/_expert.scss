@@ -1,0 +1,40 @@
+.expert {
+    display: flex;
+}
+
+.expert__container {
+    position: relative; /* Make sure the container is a positioning context */
+}
+
+.expert__text {
+    padding-left: 160px;
+
+    width: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    p {
+        color: #fff;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 1.15px;
+    }
+}
+
+.expert__title {
+    color: #FFF;
+    font-weight: 700;
+    line-height: 62px;
+    letter-spacing: 0.4px;
+
+    margin-top: 183px;
+}
+
+.expert__button {
+    margin-top: 20px;
+}
+
+.expert__img {
+    margin-top: 70px;
+}
